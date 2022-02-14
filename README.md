@@ -7,7 +7,10 @@
 > ![Analysis](/DATA/Employee_DB.png)
 > > This diagram help us to create a link to related fild to making a new tables and finding relations. Also we don't need to see the each table while we are working on the databases.
 ## Results
-* 1 > The company has a management issue which we got this result by checking an active manager list. Even there will only be two of managers about the retire, still there was a lack of staff on this area. aproximately 1500 employee is eligible for the mentorship for the program which is shown in related csv file / table. 
-* 2 > There are more than 70000 employees about the retire. Most of them are Senior Engineer or Senior Staff. Company is required the fill up those positions as soon as possible.
+* 1 > There are only two managers about the retire. And there are less active managers. 
+* 2 > There are more than 70000 employees about the retire. Most of them are Senior Engineer or Senior Staff. 
 * 3 > Overall process was done for seeing the retiring employees by their titles and finding a proper candidates within the company. Which are extracted in DATA folder.
 ## Summary 
+* The company has a management issue which we got this result by checking an active manager list. Even there will only be two of managers about the retire, still there was a lack of staff on this area. aproximately 1500 employee is eligible for the mentorship for the program which is shown in related csv file / table. 
+* Company is required the fill up those empty positions as soon as possible. Since most of them are "Senior".
+* Since there are around 1500 potential mentors are available right now, promote and train within the company is highly possible.
